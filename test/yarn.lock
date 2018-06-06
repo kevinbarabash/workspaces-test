@@ -2,17 +2,17 @@
 # yarn lockfile v1
 
 
-"@kevinbarabash/bar@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@kevinbarabash/bar/-/bar-0.0.2.tgz#4ded5ef431407838d86e588d60db86a523bdfe8a"
+"@kevinbarabash/bar@0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@kevinbarabash/bar/-/bar-0.1.2.tgz#aa9625c8311735fd6e9ac4b924d6c75c91db66d4"
 
-"@kevinbarabash/foo@0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@kevinbarabash/foo/-/foo-0.0.3.tgz#bc39790c2088de62a786c6cab430c4fc082bb04d"
+"@kevinbarabash/foo@0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@kevinbarabash/foo/-/foo-0.1.2.tgz#a976c9ced18faba2dd53eb5408361f18cf6716e6"
 
-"@kevinbarabash/foobar@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@kevinbarabash/foobar/-/foobar-0.0.5.tgz#3f76b7972149069b39090386d0c83a91edd02f61"
+"@kevinbarabash/foobar@0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@kevinbarabash/foobar/-/foobar-0.1.2.tgz#4ffeddd842c110f9c24af8fe91bf9d95edbf9889"
   dependencies:
-    "@kevinbarabash/bar" "0.0.2"
-    "@kevinbarabash/foo" "0.0.3"
+    "@kevinbarabash/bar" "0.1.2"
+    "@kevinbarabash/foo" "0.1.2"
