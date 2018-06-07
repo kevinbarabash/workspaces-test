@@ -2,5 +2,8 @@
   "name": "@kevinbarabash/bar",
   "version": "0.1.2",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
