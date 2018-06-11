@@ -23,6 +23,7 @@
     "react-dom": "^16.4.0"
   },
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "publish": "yarn build && lerna publish"
   }
 }
