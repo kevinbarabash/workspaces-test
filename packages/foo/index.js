@@ -5,3 +5,4 @@ export default class Foo extends React.Component {
         return <h1>Foo!</h1>;
     }
 }
+Foo.foo = "foo";

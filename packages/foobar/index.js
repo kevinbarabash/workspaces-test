@@ -11,3 +11,4 @@ export default class FooBar extends React.Component {
         </div>;
     }
 }
+console.log(Foo.foo);

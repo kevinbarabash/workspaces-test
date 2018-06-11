@@ -154,5 +154,7 @@ var FooBar = function (_React$Component) {
 
 exports.default = FooBar;
 
+console.log(_foo2.default.foo);
+
 /***/ })
 /******/ ]);

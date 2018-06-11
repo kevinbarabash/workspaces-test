@@ -131,7 +131,7 @@ var Foo = function (_React$Component) {
             return React.createElement(
                 "h1",
                 null,
-                "Foo"
+                "Foo!"
             );
         }
     }]);
@@ -140,6 +140,8 @@ var Foo = function (_React$Component) {
 }(React.Component);
 
 exports.default = Foo;
+
+Foo.foo = "foo";
 
 /***/ })
 /******/ ]);

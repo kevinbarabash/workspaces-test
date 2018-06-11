@@ -131,7 +131,7 @@ var Bar = function (_React$Component) {
             return React.createElement(
                 "h1",
                 null,
-                "Bar"
+                "Bar!!"
             );
         }
     }]);
