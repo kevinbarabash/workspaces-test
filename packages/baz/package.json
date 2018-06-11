@@ -1,7 +1,7 @@
 {
     "private": true,
-    "name": "@kevinbarabash/foo",
-    "version": "0.1.5",
+    "name": "@kevinbarabash/baz",
+    "version": "0.0.1",
     "main": "dist/index.js",
     "license": "MIT",
     "publishConfig": {
