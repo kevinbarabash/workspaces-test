@@ -24,6 +24,6 @@
   },
   "scripts": {
     "build": "webpack",
-    "publish": "yarn build && lerna publish"
+    "publish": "git diff --stat --exit-code HEAD && yarn build && lerna publish"
   }
 }
